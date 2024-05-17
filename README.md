@@ -1,4 +1,4 @@
-### Boas Vindas ao meu perfil 🎭 Meu noome é Thiago 🎱
+### Boas Vindas ao meu perfil 🎭 Meu nome é Thiago 🎱
 
 
 **ThiagoHenriqueAparecido/ThiagoHenriqueAparecido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
